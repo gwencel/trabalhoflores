@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const navList = document.querySelector('.nav-list');
     
     // Configurações
-    const apiKey = '31155f0438984c3a8ea7e9cfe9922e22'; // Sua chave API
+    const apiKey = 'c8bb6f38ec794baa9db374cf6f4570e6'; // Sua chave API
     let currentPage = 1;
     let currentSearchTerm = '';
 
